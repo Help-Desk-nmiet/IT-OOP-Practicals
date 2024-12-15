@@ -14,10 +14,10 @@ Before running any Java programs, make sure you have the following installed on 
 If you don't have Java installed, you can follow these steps:
 
 1. **Open your terminal** and update your system's package list:
-   /n sudo apt update
-   /n sudo apt install openjdk-11-jdk
+   sudo apt update
+   sudo apt install openjdk-11-jdk
 
-###**To Run the Program:**
+### To Run the Program:
    javac filename.java
    java filename
 
