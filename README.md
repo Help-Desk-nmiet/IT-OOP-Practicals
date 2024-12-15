@@ -1,7 +1,7 @@
 # IT-OOP-Practicals
 # OOP Practicals in Java
 
-This repository contains various Object-Oriented Programming (OOP) practicals in Java. Each practical demonstrates different OOP concepts, such as classes, inheritance, polymorphism, encapsulation, and file handling.
+This repository contains various Object-Oriented Programming (OOP) practicals in Java.
 
 ## Prerequisites
 
